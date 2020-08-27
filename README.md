@@ -14,3 +14,9 @@ git clone https://github.com/inspier/raid_solver-rs && cd raid_solver-rs && carg
 ```
 
 Untested on Windows, may require being run under WSL.
+
+## Usage
+
+```bash
+./raid_solver <path to .pk8 file(s)>
+```
