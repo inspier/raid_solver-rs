@@ -5,4 +5,4 @@ authors = ["Devin <devdevin541@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-boolector = "0.4.0"
+boolector = "0.4.2"

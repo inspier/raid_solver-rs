@@ -13,7 +13,7 @@ impl XoroShiro {
         }
     }
 
-    fn rotl(self: &Self, x: u64, k: u32) -> u64 {
+    fn rotl(&self, x: u64, k: u32) -> u64 {
         x.rotate_left(k)
     }
 
